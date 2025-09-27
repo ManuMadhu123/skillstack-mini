@@ -15,7 +15,8 @@ The project includes a REACT FRONTEND for user interface and a FLASK BACKEND for
 
 ### Backend (Flask) 
   - Handles form submissions (app.py)  
-  - Stores skill data in a database (skills.db)  
+  - Stores skill data in a database (skills.db)
+  - Auto-categorize skills based on content
       
 
 so here the code has essential things like for both frontend and backend
