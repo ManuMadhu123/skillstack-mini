@@ -1,0 +1,16 @@
+# Frontend (Node.js / React)
+frontend/node_modules/
+frontend/build/
+
+# Backend (Python / Flask)
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/skills.db
+
+# Windows system files
+Thumbs.db
+*.log
+
+# Global
+.env
