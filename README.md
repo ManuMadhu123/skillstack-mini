@@ -31,6 +31,7 @@ so here the code has essential things like for both frontend and backend
 - skillform.js
 - app.js
 - index.js
+- skillform and app.js are inside source file
 
 ---------------------------------------------------------------------------------------
 
