@@ -42,7 +42,7 @@ so here the code has essential things like for both frontend and backend
 - after installing run the backend
 - frontend must be runned after running backend
 
-  ## BACKEND RUNNING
+  ## BACKEND SETUP
   - cd backend
   - python -m venv venv
   - venv\Scripts\activate
@@ -60,7 +60,7 @@ as for other files in the frontend it is created automactically let me tell you 
 - so do (npm install) command to install react and everything so this  files like package.json etc will appear
 - react is installed succesfully now in frontend
 - to run use npm start but make sure backend is running in back
-## FRONTEND RUNNING
+## FRONTEND SETUP
 - install nodejs
 - cd frontend
 - npm install
